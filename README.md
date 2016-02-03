@@ -29,6 +29,6 @@ THIRD PARTY LIBRARIES
 =====================
 You can find the reference to the below sources in the code above the corresponding class / methods.
 
-Leap Motion APK
-Licensed under the Apache License, Version 2.0
+Leap Motion APK<br>
+Licensed under the Apache License, Version 2.0<br>
 URL: https://developer.leapmotion.com/
