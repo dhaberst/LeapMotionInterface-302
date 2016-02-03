@@ -25,7 +25,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-Third Party Libraries
+THIRD PARTY LIBRARIES
 =====================
 You can find the reference to the below sources in the code above the corresponding class / methods as well.
 
