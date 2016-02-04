@@ -11,7 +11,7 @@ Daniel Haberstock, Marcin Pietrasik, Randy Wong, Yufei Zhang, Maciej Ogrocki
 LICENSE
 =======
 
-Copyright c 2016 Daniel Haberstock, Marcin Pietrasik, Randy Wong, Yufei Zhang, Maciej Ogrocki
+Copyright 2016 Daniel Haberstock, Marcin Pietrasik, Randy Wong, Yufei Zhang, Maciej Ogrocki
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
