@@ -12,7 +12,7 @@ public class Cube : MonoBehaviour {
 	void Start () {
         cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
         cube.transform.position = new Vector3(0, 0, 0);
-        cube.GetComponent<Renderer>().material.color = Color.green;
+        cube.GetComponent<Renderer>().material.color = Color.magenta;
     }
 	
 	// Update is called once per frame
