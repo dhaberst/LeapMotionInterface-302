@@ -10,9 +10,7 @@ public class Cube : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
-        cube.transform.position = new Vector3(0, 0, 0);
-        cube.GetComponent<Renderer>().material.color = Color.magenta;
+
     }
 	
 	// Update is called once per frame

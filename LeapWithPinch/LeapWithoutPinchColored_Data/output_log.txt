@@ -16,14 +16,14 @@ Platform assembly: C:\Users\Daniel\Documents\U of A\Computers 302\LeapMotionInte
 Loading C:\Users\Daniel\Documents\U of A\Computers 302\LeapMotionInterface-302\LeapWithPinch\LeapWithoutPinchColored_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\Daniel\Documents\U of A\Computers 302\LeapMotionInterface-302\LeapWithPinch\LeapWithoutPinchColored_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\Daniel\Documents\U of A\Computers 302\LeapMotionInterface-302\LeapWithPinch\LeapWithoutPinchColored_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.146 seconds
+- Completed reload, in  0.370 seconds
 Platform assembly: C:\Users\Daniel\Documents\U of A\Computers 302\LeapMotionInterface-302\LeapWithPinch\LeapWithoutPinchColored_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Daniel\Documents\U of A\Computers 302\LeapMotionInterface-302\LeapWithPinch\LeapWithoutPinchColored_Data\Managed\System.dll (this message is harmless)
 desktop: 1680x1050 60Hz; virtual: 3600x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.389931 ms
+UnloadTime: 1.400194 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 12f0 -> priority: 1 
-  Thread -> id: 14f4 -> priority: 1 
+  Thread -> id: 15ec -> priority: 1 
+  Thread -> id: 3e40 -> priority: 1 

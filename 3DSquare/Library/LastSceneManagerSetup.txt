@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/CubeWorld.unity
+- path: C:/Users/Daniel/Documents/U of A/Computers 302/LeapMotionInterface-302/LeapWithPinch/Assets/working.unity
   isLoaded: 1
   isActive: 1
