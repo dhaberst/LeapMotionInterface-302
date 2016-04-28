@@ -3,6 +3,10 @@ LeapMotionInterface
 
 University of Alberta CMPUT302 Winter2016 Team 8 Project
 
+Check out our final design!
+=======
+https://www.youtube.com/watch?v=Xz9PLaNFiRk
+
 AUTHORS
 =======
 
